@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://github.com/IvanGibson" title="Perfil do Ivan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanGibson&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
